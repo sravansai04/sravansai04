@@ -1,7 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**sravansai04/sravansai04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
 
