@@ -15,3 +15,10 @@
 </a>
 <br />
 <br />
+
+Hi, I'm Sravan Sai, an undergraduate student from KL University 🚀 from India,I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
+
+
+Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️.
+
+  <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
