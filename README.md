@@ -19,9 +19,24 @@
 <br />
 <br />
 
-Hi, I'm Sravan Sai, an undergraduate student from KL University 🚀 from India,I'm a Computer Science Enthusiast , Currently pursuing 3rd year B.Tech at KL University 🤓
+Hi, I'm Sravan Sai, an undergraduate student from KL University 🚀 from India,I'm a Computer Science Enthusiast 👨‍💻 
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️.
 
   <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
+  
+  
+**Talking about Personal Stuffs:**
+
+
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: sravansai766@gmail.com
+- :green_book: Author [@Medium](https://medium.com/@sravansai)
+
+&nbsp;
+
+<br>
+
+![Sravan's github stats](https://github-readme-stats.vercel.app/api?username=sravansai04&show_icons=true&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&layout=compact&hide=html&theme=radical%22%20alt=%22sravansai04
