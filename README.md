@@ -33,7 +33,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sravansai766@gmail.com
 - :green_book: Author [@Medium](https://medium.com/@sravansai)
--🌱 I’m currently learning more about AI/ML 
+- 🌱 I’m currently learning more about AI/ML 
 - 🤔 I’m looking for help in learning more about Tensorflow and Deep Learning
 
 &nbsp;
