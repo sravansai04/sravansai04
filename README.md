@@ -33,6 +33,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sravansai766@gmail.com
 - :green_book: Author [@Medium](https://medium.com/@sravansai)
+-🌱 I’m currently learning more about AI/ML 
+- 🤔 I’m looking for help in learning more about Tensorflow and Deep Learning
 
 &nbsp;
 
@@ -41,9 +43,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 ![Sravan's github stats](https://github-readme-stats.vercel.app/api?username=sravansai04&show_icons=true&hide_border=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&layout=compact&hide=html&theme=radical%22%20alt=%22sravansai04" />
 
-
+<br>
 ⭐️ Recent projects in which I have created and contributed [Sravan!](https://github.com/sravansai04)
-
 <a href="https://github.com/sravansai04/PERMISSION-APPROVAL-SYSTEM">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=PERMISSION-APPROVAL-SYSTEM" />
   </a>
