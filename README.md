@@ -50,6 +50,6 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=PERMISSION-APPROVAL-SYSTEM" />
   </a>
   
-  <a href="https://github.com/sravansai04/Loan Prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=Loan Prediction" />
+  <a href="https://github.com/sravansai04/Loan-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=Loan-Prediction" />
   </a>
