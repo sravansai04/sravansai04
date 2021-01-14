@@ -47,5 +47,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 ⭐️ Recent projects in which I have created and contributed
 
 <a href="https://github.com/sravansai04/PERMISSION-APPROVAL-SYSTEM">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=PERMISSION-APPROVAL-SYSTEM" /></a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=PERMISSION-APPROVAL-SYSTEM" /><a href="https://github.com/sravansai04/Loan-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sravansai04&repo=Loan-Prediction" /></a>
+  </a>
   
