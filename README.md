@@ -48,11 +48,10 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 		<img src='https://img.shields.io/badge/code-css-green?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=green' alt='CSS'>
 	</a>
 	&ensp;
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
 		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
 	</a>
-	&emsp;
-<br>
+	<br>
 <br>
 <a href='https://www.tensorflow.org/'>
 		<img src='https://img.shields.io/badge/code-Tensorflow-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
