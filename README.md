@@ -38,6 +38,16 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 &nbsp;
 
+
+### Languages, Frameworks and Tools I use and I have worked with:
+<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
+		<img src='https://img.shields.io/badge/code-html-orange?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=orange' alt='HTML'>
+	</a>
+	&emsp;
+
+
+
+
 <br>
 
 ![Sravan's github stats](https://github-readme-stats.vercel.app/api?username=sravansai04&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
