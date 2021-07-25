@@ -52,7 +52,6 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
 	</a>
 	<br>
-<br>
 <a href='https://www.tensorflow.org/'>
 		<img src='https://img.shields.io/badge/code-Tensorflow-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
 	</a>
