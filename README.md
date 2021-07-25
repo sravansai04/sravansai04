@@ -44,8 +44,41 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 		<img src='https://img.shields.io/badge/code-html-orange?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=orange' alt='HTML'>
 	</a>
 	&emsp;
+	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+		<img src='https://img.shields.io/badge/code-css-green?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=green' alt='CSS'>
+	</a>
+	&ensp;
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
+		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
+	</a>
+	&emsp;
+<br>
+<br>
+<a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/code-angular-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
+	</a>
+	&emsp;
+<a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
+	</a>
+	&emsp;
+<a href='https://nodejs.org/en/'>
+		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
+	</a>
+<br>
+<br>
 
-
+  <a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/tool-figma-purple?logoWidth=30&labelColor=black&style=for-the-badge&logo=figma&logoColor=purple' alt='Figma'>
+	</a>
+	&emsp;
+<a href='https://www.react.org/'>
+		<img src='https://img.shields.io/badge/tool-adobe xd-450135?logoWidth=30&labelColor=black&style=for-the-badge&logo=adobexd' alt='Adobe XD'>
+	</a>
+	&emsp;
+	
+<br>
+<br>	
 
 
 <br>
