@@ -68,14 +68,6 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <br>
 <br>
 
-  <a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/tool-figma-purple?logoWidth=30&labelColor=black&style=for-the-badge&logo=figma&logoColor=purple' alt='Figma'>
-	</a>
-	&emsp;
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/tool-adobe xd-450135?logoWidth=30&labelColor=black&style=for-the-badge&logo=adobexd' alt='Adobe XD'>
-	</a>
-	&emsp;
 	
 <br>
 <br>	
