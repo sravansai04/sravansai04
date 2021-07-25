@@ -63,7 +63,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 	</a>
 	&emsp;
 <a href='https://scikit-learn.org/'>
-		<img src='https://img.shields.io/badge/code-sk-learn-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
+		<img src='https://img.shields.io/badge/code-sklearn-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
 	</a>
 <br>
 <br>
