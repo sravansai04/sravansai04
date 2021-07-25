@@ -88,5 +88,11 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 -->
 
 <br>
+<details>
+  <summary>GitHub Statistics</summary>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&theme=tokyonight" alt="Stats"/>
+</details>
 
+
+![Visitor Count](https://profile-counter.glitch.me/sravansai04/count.svg)
   
