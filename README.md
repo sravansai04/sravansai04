@@ -62,8 +62,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 		<img src='https://img.shields.io/badge/code-Keras-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
 	</a>
 	&emsp;
-<a href='https://nodejs.org/en/'>
-		<img src='https://img.shields.io/badge/code-node.js-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
+<a href='https://scikit-learn.org/'>
+		<img src='https://img.shields.io/badge/code-sk-learn-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
 	</a>
 <br>
 <br>
