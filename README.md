@@ -73,6 +73,14 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 
 <br>
+<br>
+<details>
+  <summary>GitHub Statistics</summary>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&theme=tokyonight" alt="Stats"/>
+</details>
+
+
+![Visitor Count](https://profile-counter.glitch.me/sravansai04/count.svg)
 <!--
 ![Sravan's github stats](https://github-readme-stats.vercel.app/api?username=sravansai04&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&layout=compact&hide=html&theme=radical%22%20alt=%22sravansai04" />
@@ -87,12 +95,5 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 -->
 
-<br>
-<details>
-  <summary>GitHub Statistics</summary>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravansai04&theme=tokyonight" alt="Stats"/>
-</details>
 
-
-![Visitor Count](https://profile-counter.glitch.me/sravansai04/count.svg)
   
