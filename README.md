@@ -54,12 +54,12 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 	&emsp;
 <br>
 <br>
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-angular-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
+<a href='https://www.tensorflow.org/'>
+		<img src='https://img.shields.io/badge/code-Tensorflow-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
 	</a>
 	&emsp;
-<a href='https://www.react.org/'>
-		<img src='https://img.shields.io/badge/code-react-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
+<a href='https://keras.io/'>
+		<img src='https://img.shields.io/badge/code-Keras-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
 	</a>
 	&emsp;
 <a href='https://nodejs.org/en/'>
