@@ -38,31 +38,6 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 &nbsp;
 
-
-### Languages, Frameworks and Tools I use and I have worked with:
-<a href='https://developer.mozilla.org/en-US/docs/Web/HTML'>
-		<img src='https://img.shields.io/badge/code-html-orange?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=orange' alt='HTML'>
-	</a>
-	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-		<img src='https://img.shields.io/badge/code-css-green?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=green' alt='CSS'>
-	</a>
-	&ensp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript'>
-		<img src='https://img.shields.io/badge/code-javascript-F7DF1E?logo=javascript&logoWidth=30&labelColor=black&style=for-the-badge' alt='JavaScript'>
-	</a>
-	<br>
-<a href='https://www.tensorflow.org/'>
-		<img src='https://img.shields.io/badge/code-Tensorflow-red?logoWidth=30&labelColor=black&style=for-the-badge&logo=angular&logoColor=red' alt='Angular'>
-	</a>
-	&emsp;
-<a href='https://keras.io/'>
-		<img src='https://img.shields.io/badge/code-Keras-blue?logoWidth=30&labelColor=black&style=for-the-badge&logo=react' alt='React.js'>
-	</a>
-	&emsp;
-<a href='https://scikit-learn.org/'>
-		<img src='https://img.shields.io/badge/code-sklearn-339933?logo=node.js&logoWidth=30&labelColor=black&style=for-the-badge' alt='Node.js'>
-	</a>
 <br>
 <br>
 
@@ -75,20 +50,13 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <br>
 <!--technical skill-->
 
-## Technical Skills 🛠 
+## Technical Skills
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -96,14 +64,8 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
- ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
- ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
- [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-![Flutter](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
 <!--Github Progess bar-->
 
@@ -111,12 +73,12 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>My GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40px" alt="GitHub-Status"/></p>
     
-<a href="https://github.com/SriSravyaN/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SriSravyaN&show_icons=true&include_all_commits=true&theme=radical" alt="Savya's github stats" />
+<a href="https://github.com/sravansai04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sravansai04&show_icons=true&include_all_commits=true&theme=radical" alt="Sravan's github stats" />
 </a>
-<a href="https://github.com/SriSravyaN/github-readme-stats">
+<a href="https://github.com/sravansai04/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SriSravyaN&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sravansai04&layout=compact&theme=radical" />
 </a>
 
 
@@ -124,7 +86,7 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 <b>My GitHub contributions:</b>
 
-[![Github game of life](https://github4life.herokuapp.com/SriSravyaN.gif?z=6)](https://github4life.herokuapp.com/SriSravyaN)
+[![Github game of life](https://github4life.herokuapp.com/sravansai04.gif?z=6)](https://github4life.herokuapp.com/sravansai04)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sravansai04/count.svg)
