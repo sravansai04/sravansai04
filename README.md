@@ -22,10 +22,7 @@
 Hi, I'm Sravan Sai, an undergraduate student from KL University 🚀 from India,I'm a Computer Science Enthusiast 👨‍💻 
 
 
-Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️.
-
-  <img align="right" alt="GIF" width="500" height="300" src="https://websiteoncall.com/wp-content/uploads/2020/03/software_development.gif" />
-  
+Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️.  
   
 **Talking about Personal Stuffs:**
 
@@ -37,42 +34,52 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 - 🤔 I’m looking for help in learning more about Tensorflow and Deep Learning
 
 &nbsp;
-
-<br>
-<br>
-
-	
-<br>
-<br>	
-
-
-<br>
 <br>
 <!--technical skill-->
 
+
 ## Technical Skills
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
- ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
+
+
+## 🚀 Frameworks 🔝
+
+![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![StoryBook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+
+
+
+## ⏱️ Workflow Platforms 🔝
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+
 
 <!--Github Progess bar-->
 
 ## 
 <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>My GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="40px" alt="GitHub-Status"/></p>
-    
+ <i><b>My GitHub Stats</b></i></p>
+    <br>
 <a href="https://github.com/sravansai04/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sravansai04&show_icons=true&include_all_commits=true&theme=radical" alt="Sravan's github stats" />
 </a>
@@ -88,7 +95,9 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 [![Github game of life](https://github4life.herokuapp.com/sravansai04.gif?z=6)](https://github4life.herokuapp.com/sravansai04)
 
-
+Thank you for visiting my profile. 
+<br>
+<br>
 ![Visitor Count](https://profile-counter.glitch.me/sravansai04/count.svg)
 <!--
 ![Sravan's github stats](https://github-readme-stats.vercel.app/api?username=sravansai04&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
