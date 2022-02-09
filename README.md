@@ -1,7 +1,7 @@
 ### Hey 👋, I'm [Sravan!](https://github.com/sravansai04)
 
 
-<a href="https://www.linkedin.com/in/sravan-sai-393a58189/">
+<a href="https://www.linkedin.com/in/sravansai/">
   <img align="left" alt="Sravan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.youtube.com/c/PlayWithCoding">
