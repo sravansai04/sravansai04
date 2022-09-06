@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm Sravan Sai, an undergraduate student from KL University 🚀 from India,I'm a Computer Science Enthusiast 👨‍💻 
+Hi, I'm Sravan Sai, a graduate student from University of Houston 🚀 from Texas,I'm a Computer Science Enthusiast 👨‍💻 
 
 
 Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and traveling 🏝️.  
@@ -29,7 +29,6 @@ Beside's developing stuff, I enjoy listening music 🎧, reading book 📚, and 
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: sravansai766@gmail.com
-- :green_book: Author [@Medium](https://medium.com/@sravansai)
 - 🌱 I’m currently learning more about AI/ML 
 - 🤔 I’m looking for help in learning more about Tensorflow and Deep Learning
 
